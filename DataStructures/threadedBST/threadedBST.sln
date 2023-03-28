@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "threadedBST", "threadedBST\threadedBST.vcxproj", "{52A1552D-5349-4915-B1DF-990C29088674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A1552D-5349-4915-B1DF-990C29088674}.Debug|x64.ActiveCfg = Debug|x64
+		{52A1552D-5349-4915-B1DF-990C29088674}.Debug|x64.Build.0 = Debug|x64
+		{52A1552D-5349-4915-B1DF-990C29088674}.Debug|x86.ActiveCfg = Debug|Win32
+		{52A1552D-5349-4915-B1DF-990C29088674}.Debug|x86.Build.0 = Debug|Win32
+		{52A1552D-5349-4915-B1DF-990C29088674}.Release|x64.ActiveCfg = Release|x64
+		{52A1552D-5349-4915-B1DF-990C29088674}.Release|x64.Build.0 = Release|x64
+		{52A1552D-5349-4915-B1DF-990C29088674}.Release|x86.ActiveCfg = Release|Win32
+		{52A1552D-5349-4915-B1DF-990C29088674}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11713A55-C210-4BD8-AEC2-848488E88373}
+	EndGlobalSection
+EndGlobal
